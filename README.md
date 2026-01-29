@@ -54,6 +54,7 @@ Cloud and Backend Services:
 
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/57770aa6-a65c-4c1d-9fe6-e113693c2c1d" />
 
+<img width="1438" height="880" alt="image" src="https://github.com/user-attachments/assets/4365998e-8e77-498f-99c6-723be64c613d" />
 
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/919b51f4-f45c-49f6-98ac-8af15718bf50" />
 
