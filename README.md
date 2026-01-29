@@ -10,6 +10,10 @@ The application allows users to submit their registration details along with an 
 https://user-registration-app-nine.vercel.app/
 
 
+## Demo video Link
+https://go.screenpal.com/watch/cOVUQxn3uQc
+
+
 ---
 
 ## Features
