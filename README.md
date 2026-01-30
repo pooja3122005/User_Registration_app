@@ -8,7 +8,8 @@ The application allows users to submit their registration details along with an 
 ## Live Application
 
 https://user-registration-app-nine.vercel.app/
-
+improved UI
+https://user-registration-app-et4h20.vercel.app/
 
 ## Demo video Link
 https://go.screenpal.com/watch/cOVUQxn3uQc
